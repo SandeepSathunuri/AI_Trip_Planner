@@ -21,5 +21,5 @@ print(shutil.which("uv"))```
 ## use this command from your virtual env
 ```AI_Trip_Planner\env\Scripts\activate.bat```
 
-### to see the hostory command
+### to see the history command
 ``` doskey/history```
